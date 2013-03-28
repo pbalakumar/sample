@@ -1,1 +1,1 @@
-This is sample for git master
+This is sample for git master master
